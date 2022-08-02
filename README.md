@@ -11,8 +11,8 @@ network. However, the last layer is replaced with a simple linear layer with the
 classes in our dataset (i.e. 2 for our case)
 - Both of the networks implemented used the Weight Decay Regularization technique and the Adam Optimizer; Accuracy
 is used as the metric for comparing the models performance.
-- ResNet9 provided the best accuracy 93%, for a train:val:test ratio 80:10:10, and ResNet34 provided the best validation
-accuracy of 99%
+- ResNet9 provided the best accuracy 86%, for a train:val:test ratio 80:10:10, and ResNet34 provided the best validation
+accuracy of 97%
 - Python libraries used: PyTorch, and Matplotlib.
 - This project was inspired by the tutorial [here](https://blog.jovian.ai/using-resnet-for-image-classification-4b3c42f2a27e)
 
