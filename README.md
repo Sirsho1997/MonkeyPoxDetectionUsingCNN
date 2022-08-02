@@ -13,5 +13,7 @@ classes in our dataset (i.e. 2 for our case)
 is used as the metric for comparing the models performance.
 - ResNet9 provided the best accuracy 93%, for a train:val:test ratio 80:10:10, and ResNet34 provided the best validation
 accuracy of 99%
-◦ Python libraries used: PyTorch, and Matplotlib.
+- Python libraries used: PyTorch, and Matplotlib.
+- This project was inspired by the tutorial [here](https://blog.jovian.ai/using-resnet-for-image-classification-4b3c42f2a27e)
+
 
